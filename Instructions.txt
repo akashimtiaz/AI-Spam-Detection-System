@@ -1,0 +1,19 @@
+
+Install python 10
+Install sql lite
+install flask package
+Install python 10
+
+pip install -r requirements.txt
+
+python3 app.py
+
+----------------------------------
+
+extra commends
+
+---------------------
+
+conda --v
+
+conda create -n flask10 python==3.10.12
